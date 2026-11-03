@@ -1,107 +1,145 @@
+<!--
+  ✿ JOFFY'S ENCHANTED DEVELOPER GARDEN ✿
+-->
+
 <div align="center">
 
-<img src="assets/fairy-garden-animated.gif" alt="A moonlit pixel-art fairy garden with blossoms, lanterns and a little cottage" width="100%">
+<img src="assets/fairy-garden-animated.gif" width="100%" alt="Enchanted pixel-art fairy garden with glowing fireflies and magical sparkles"/>
 
 # ✿ Welcome to my garden ✿
 
 ### a little magic, a lot of code
 
-*A little corner of the internet, sprinkled with fairy dust.*  
 *Where ideas bloom, curiosity grows, and bugs occasionally turn into butterflies.*
 
-[![GitHub followers](https://img.shields.io/github/followers/Joffy-Maria?style=flat&logo=github&label=Garden%20visitors&color=9bbf9a)](https://github.com/Joffy-Maria?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=Joffy-Maria&style=flat&color=d9a9bd&label=Visitors)](https://github.com/Joffy-Maria)
+<br/>
+
+[![GitHub followers](https://img.shields.io/github/followers/Joffy-Maria?style=flat-square&label=Garden%20visitors&color=B9D5B0&labelColor=405A48)](https://github.com/Joffy-Maria?tab=followers)
+[![Profile views](https://komarev.com/ghpvc/?username=Joffy-Maria&style=flat-square&color=E8C5D3&label=Visitors)](https://github.com/Joffy-Maria)
+
+<br/>
+
+**✧ ──────── A LITTLE MAP OF THE GARDEN ──────── ✧**
+
+🌿 [The Gardener](#-the-gardener)
+
+🪄 [My Little Toolbox](#-my-little-toolbox)
+
+🌷 [Things in Bloom](#-things-in-bloom)
+
+🦋 [Growing in the Open](#-growing-in-the-open)
+
+💌 [Letters from the Forest](#-letters-from-the-forest)
 
 </div>
 
 ---
 
-<div align="center">
-
-**✧ ────────────────  a little map of the garden  ──────────────── ✧**
-
-[🌿 The Gardener](#-the-gardener) ·
-[🪄 My Little Toolbox](#-my-little-toolbox) ·
-[🌷 Things in Bloom](#-things-in-bloom) ·
-[💌 Letters from the Forest](#-letters-from-the-forest)
-
-</div>
-
 ## 🌿 The Gardener
 
-<img align="right" src="assets/fairy-garden.png" alt="Pixel-art storybook illustration of an enchanted garden" width="38%">
+<img align="right" width="155" src="assets/fairy-garden.png" alt="Little enchanted garden illustration"/>
 
-Hi, I'm **Joffy** — a Computer Science student who loves building things, designing experiences, and turning curious ideas into working projects.
+Hello, little wanderer! I'm **Joffy**, a Computer Science student who loves turning curious ideas into things people can actually use.
 
-I'm happiest somewhere between logic and imagination: exploring how things work, experimenting with new technologies, and making the web a little more delightful.
+I'm somewhere between logic and imagination — exploring technology, experimenting with designs, building applications, and occasionally getting lost in a new idea.
 
-- 🌱 **Currently growing:** web applications, AI/ML experiments, and open-source contributions
-- 🎨 **I enjoy:** software development, UI/UX, visual design, and creative problem-solving
-- 🧚 **Always learning:** new tools, better engineering practices, and how to build things with people
-- 💚 **Garden motto:** Stay curious. Keep creating. Let things bloom.
+🌱 Currently growing:
+- Web development and creative applications
+- Artificial Intelligence and Machine Learning
+- UI/UX design and interactive experiences
+- Open-source contributions
+
+🧚 Things I enjoy:
+- Building things from scratch
+- Solving interesting problems
+- Exploring new technologies
+- Making digital experiences delightful
 
 <br clear="right"/>
+
+> Stay curious. Keep creating. Let things bloom. 🌷
+
+---
 
 ## 🪄 My Little Toolbox
 
 *Every fairy has a wand. Mine just happens to be a keyboard.*
 
-**Languages**
+### Languages
 
-![C](https://img.shields.io/badge/C-c8d8ee?style=for-the-badge&logo=c&logoColor=344b65)
-![Python](https://img.shields.io/badge/Python-f7e4a8?style=for-the-badge&logo=python&logoColor=51431c)
-![Java](https://img.shields.io/badge/Java-f2c9b9?style=for-the-badge&logo=openjdk&logoColor=704438)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7e9a9?style=for-the-badge&logo=javascript&logoColor=51451d)
-![TypeScript](https://img.shields.io/badge/TypeScript-c9def2?style=for-the-badge&logo=typescript&logoColor=36536e)
+![C](https://img.shields.io/badge/C-C8D8EE?style=for-the-badge&logo=c&logoColor=344B65)
+![Python](https://img.shields.io/badge/Python-F7E4A8?style=for-the-badge&logo=python&logoColor=51431C)
+![Java](https://img.shields.io/badge/Java-F2C9B9?style=for-the-badge&logo=openjdk&logoColor=704438)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E9A9?style=for-the-badge&logo=javascript&logoColor=51451D)
+![TypeScript](https://img.shields.io/badge/TypeScript-C9DEF2?style=for-the-badge&logo=typescript&logoColor=36536E)
 
-**Web & development**
+### Web Development
 
-![React](https://img.shields.io/badge/React-d0edf0?style=for-the-badge&logo=react&logoColor=315f66)
-![Next.js](https://img.shields.io/badge/Next.js-e4e1e7?style=for-the-badge&logo=nextdotjs&logoColor=333333)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-cee9df?style=for-the-badge&logo=tailwindcss&logoColor=315d50)
-![HTML5](https://img.shields.io/badge/HTML5-f5d0c1?style=for-the-badge&logo=html5&logoColor=784735)
-![CSS3](https://img.shields.io/badge/CSS3-d4e0f4?style=for-the-badge&logo=css3&logoColor=405c83)
+![React](https://img.shields.io/badge/React-D0EDF0?style=for-the-badge&logo=react&logoColor=315F66)
+![Next.js](https://img.shields.io/badge/Next.js-E4E1E7?style=for-the-badge&logo=nextdotjs&logoColor=333333)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-CDE9DF?style=for-the-badge&logo=tailwindcss&logoColor=315D50)
+![HTML5](https://img.shields.io/badge/HTML5-F5D0C1?style=for-the-badge&logo=html5&logoColor=784735)
+![CSS3](https://img.shields.io/badge/CSS3-D4E0F4?style=for-the-badge&logo=css3&logoColor=405C83)
 
-**Other magical ingredients**
+### Other Magical Ingredients
 
-![Git](https://img.shields.io/badge/Git-f1d0c2?style=for-the-badge&logo=git&logoColor=754936)
-![GitHub](https://img.shields.io/badge/GitHub-e1dced?style=for-the-badge&logo=github&logoColor=514968)
-![Figma](https://img.shields.io/badge/Figma-f4d5e2?style=for-the-badge&logo=figma&logoColor=75465d)
-![Supabase](https://img.shields.io/badge/Supabase-d4ead9?style=for-the-badge&logo=supabase&logoColor=315e43)
-![MySQL](https://img.shields.io/badge/MySQL-d3e5ee?style=for-the-badge&logo=mysql&logoColor=36566a)
+![Git](https://img.shields.io/badge/Git-F1D0C2?style=for-the-badge&logo=git&logoColor=754936)
+![GitHub](https://img.shields.io/badge/GitHub-E1DCED?style=for-the-badge&logo=github&logoColor=514968)
+![Figma](https://img.shields.io/badge/Figma-F4D5E2?style=for-the-badge&logo=figma&logoColor=75465D)
+![Supabase](https://img.shields.io/badge/Supabase-D4EAD9?style=for-the-badge&logo=supabase&logoColor=315E43)
+![MySQL](https://img.shields.io/badge/MySQL-D3E5EE?style=for-the-badge&logo=mysql&logoColor=36566A)
+
+---
 
 ## 🌷 Things in Bloom
 
 *A few little creations growing in my garden.*
 
-| Project | What it does |
+| 🌸 Project | 🌱 Description |
 |---|---|
-| 🌍 **ImpactSense** | An earthquake prediction and visualization platform with interactive data views. |
-| 🗣️ **ClearSpeak** | An assistive communication web application. |
-| 🍅 **Promate** | A real-time collaborative Pomodoro application. |
+| [ImpactSense](https://github.com/Joffy-Maria/ImpactSense) | Earthquake prediction and visualization platform with interactive data views. |
+| ClearSpeak | Assistive communication web application. |
+| Promate | Real-time collaborative Pomodoro application. |
 
-More experiments, ideas, and little creations are growing behind the scenes.
-
-[🌱 Explore my repositories →](https://github.com/Joffy-Maria?tab=repositories)
-
-## 🦋 Growing in the open
-
-I believe beautiful things happen when people build together. I'm exploring the world of **FOSS**, learning from established codebases, fixing bugs, building features, and collaborating with developer communities.
-
-My open-source journey is just beginning — one issue, one review, and one pull request at a time.
-
-> Every pull request is another flower in the garden. 🌷
-
-## 🍄 A little GitHub magic
+There are many more ideas waiting to bloom!
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Joffy-Maria&show_icons=true&hide_border=true&bg_color=fff9f3&title_color=779b7b&icon_color=c99eb2&text_color=596b5c" alt="Joffy's GitHub statistics" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joffy-Maria&layout=compact&hide_border=true&bg_color=fff9f3&title_color=779b7b&text_color=596b5c" alt="Joffy's most used languages" height="165">
+[🌿 Explore all my repositories →](https://github.com/Joffy-Maria?tab=repositories)
 
 </div>
 
-*These cards are provided by a third-party service; if they ever take a nap, the rest of the garden will still be here.*
+---
+
+## 🦋 Growing in the Open
+
+I believe beautiful things happen when people build together.
+
+I'm exploring the world of **Free and Open Source Software (FOSS)** — learning from established codebases, understanding how real projects work, fixing bugs, building features, and collaborating with developer communities.
+
+Currently:
+- 🌱 Exploring beginner-friendly open-source contributions.
+- 🛠️ Learning to write maintainable, well-tested code.
+- 🤝 Getting involved in collaborative development.
+- 🦋 Growing one issue, one review, and one pull request at a time.
+
+> Every pull request is another flower in the garden. 🌷
+
+---
+
+## 🍄 A Little GitHub Magic
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Joffy-Maria&hide_border=true&background=FFF9F3&ring=9BBF9A&fire=D9A9BD&currStreakLabel=779B7B)](https://github.com/Joffy-Maria)
+
+<br/>
+
+*Every little commit helps the garden grow.* 🌱
+
+</div>
+
+---
 
 ## 💌 Letters from the Forest
 
@@ -109,15 +147,16 @@ Want to say hello, explore something I've built, or collaborate on an idea?
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Visit%20my%20garden-e3dced?style=for-the-badge&logo=github&logoColor=514968)](https://github.com/Joffy-Maria)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20connect-d8e8f3?style=for-the-badge&logo=linkedin&logoColor=315b78)](https://www.linkedin.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Visit%20my%20garden-E3DCED?style=for-the-badge&logo=github&logoColor=514968)](https://github.com/Joffy-Maria)
 
-<br>
+<br/>
 
 *Thanks for wandering through my little corner of the internet.*
 
-**May your bugs be few and your ideas bloom endlessly.** 🧚‍♀️
+### May your bugs be few and your ideas bloom endlessly. 🧚‍♀️
 
-<img src="assets/fairy-garden-animated.gif" alt="The garden at night, glowing with tiny lights" width="100%">
+<img src="assets/fairy-garden-animated.gif" width="100%" alt="Fireflies glowing in an enchanted fairy garden"/>
+
+**✧ THE END... OR JUST THE BEGINNING? ✧**
 
 </div>
