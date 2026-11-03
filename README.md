@@ -31,7 +31,7 @@
 
 <img align="right" src="assets/fairy-garden.png" alt="Pixel-art storybook illustration of an enchanted garden" width="38%">
 
-Hi, I'm **Joffy** — a Computer Science student who loves building things, designing experiences, and turning curious ideas into working projects.
+Hi, I'm **Joffy** — a Computer Science Engineering student who loves building things, designing experiences, and turning curious ideas into working projects.
 
 I'm happiest somewhere between logic and imagination: exploring how things work, experimenting with new technologies, and making the web a little more delightful.
 
